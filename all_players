@@ -2,6 +2,7 @@ import math
 import random
 
 
+
 class Player():
     def __init__(self, letter):
         self.letter = letter
@@ -25,7 +26,7 @@ class HumanPlayer(Player):
                     raise ValueError
                 valid_square = True
             except ValueError:
-                print('Invalid square. Try again.')
+                print('Invalid square. Please Try again.')
         return val
 
 
