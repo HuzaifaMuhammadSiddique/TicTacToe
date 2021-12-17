@@ -1,0 +1,9 @@
+"""This repository contains the code for the famous TicTacToe game. 
+It is built using classes and objects in python. The game has three players:
+the human player, random computer player, and intelligent AI player.
+You can interchangeably play with both of the players.
+The AI player is created using the minimax algorithm.
+To commence the game, run the main_game file.
+Special thanks to kying18 for helping me create this game.
+It was impossible for me to create this wonderful game without her YouTube video.
+"""
